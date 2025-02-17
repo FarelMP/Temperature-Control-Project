@@ -1,0 +1,4 @@
+../Core/Src/Calculation.c:16:7:moving_average_volt	1
+../Core/Src/Calculation.c:26:7:moving_average_current	1
+../Core/Src/Calculation.c:35:6:adc_conv	2
+../Core/Src/Calculation.c:57:7:PWM_Control	5

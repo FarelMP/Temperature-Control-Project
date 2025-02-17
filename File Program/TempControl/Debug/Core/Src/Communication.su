@@ -1,0 +1,2 @@
+../Core/Src/Communication.c:19:6:DataSend	136	static
+../Core/Src/Communication.c:44:6:parseData	16	static
